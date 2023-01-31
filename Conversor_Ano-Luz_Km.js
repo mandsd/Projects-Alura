@@ -20,4 +20,4 @@ alert(
     " trilhões em Km"
 );
 
-// https://codepen.io/mandsdahm/full/poZxpma
+// link com html e css colocados: https://codepen.io/mandsdahm/full/poZxpma
