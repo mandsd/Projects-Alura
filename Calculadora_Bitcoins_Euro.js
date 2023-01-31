@@ -15,4 +15,4 @@ valorEmEuro = valorEmEuro.toFixed(2);
 alert("O valor de ₿ " + valorEmBitcoin + " em Euro é € " + valorEmEuro);
 
 
-// link com html e css colocados https://codepen.io/mandsdahm/full/yLqRoJb
+// link com html e css colocados: https://codepen.io/mandsdahm/full/yLqRoJb
