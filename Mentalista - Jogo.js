@@ -34,3 +34,5 @@ if (QuantidadeChutes == MaximoErros)
 {
     alert('Você atingiu o limite de chutes e perdeu :(. O número era ' + NumeroSecreto + '. Boa sorte na próxima!')
 }
+
+// link com html e css colocados: https://codepen.io/mandsdahm/full/LYBgrgZ
