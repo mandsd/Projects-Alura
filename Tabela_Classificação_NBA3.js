@@ -1,4 +1,4 @@
-// parte 1 do projeto, em JavaScript
+// parte 3 do projeto, em JavaScript
 
 //
 // colocando todos os times em variaveis
@@ -416,3 +416,5 @@ function botaoEmpate(time) {
     alert("Esse time não está na lista!");
   }
 }
+
+// link do projeto completo: https://codepen.io/mandsdahm/full/gOjqLJw
